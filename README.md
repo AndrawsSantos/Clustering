@@ -1,4 +1,4 @@
-# Clustering projects
+# Clustering Projects
 
 This repository contains a collection of Clustering projects
 
